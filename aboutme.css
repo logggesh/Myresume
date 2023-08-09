@@ -1,0 +1,26 @@
+.mainprt{
+    background-color: aliceblue;
+    min-height: 550px;
+    width: 930px;
+}
+body{
+     margin: 0;
+     background-color: 	#C0C0C0;
+}
+.tophead{
+    font-family: sans-serif;
+    margin-top: 80px !important;
+}
+.cardmove{
+    margin-top: 150px !important;
+    margin-left: 160px !important;
+}
+.social-icon {
+    font-size: 30px;
+    margin: 0 10px;
+    color: #333;
+}
+.fontfb{
+    font-size: 30px;
+    margin-left: 10px !important;
+}

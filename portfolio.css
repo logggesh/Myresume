@@ -1,0 +1,62 @@
+.upbg{
+    min-height: 700px !important;
+}
+.mx-5{
+    margin-left: 150px !important;
+}
+.display-2{
+    font-family: 'Courier New', Courier, monospace;
+}
+.row{
+    background-color: #C8E4B2;
+}
+.downhead{
+    font-family: 'Courier New', Courier, monospace;
+}
+.card-text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.myimg{
+    height: 300px;
+    margin-top: 190px;
+}
+.mt-4{
+    margin-top: 70px !important;
+}
+.heading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    margin-top: 150px !important;
+}
+.heading1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.maintxt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.rounded{
+    height: 45px !important;
+    width: 120px !important;
+    font-size: 20px;
+    text-align: center;
+}
+.footer{
+    min-height:60px;
+    
+}
+.fontsz{
+    font-size: 25px;
+}
+.bod{
+    border-right: 1px solid grey;
+    border-bottom: 1px solid grey;
+    cursor: pointer;
+    transition: background-color 0.8s ease;
+}
+.bod:hover{
+    background-color: black;
+    color: azure;
+
+}
